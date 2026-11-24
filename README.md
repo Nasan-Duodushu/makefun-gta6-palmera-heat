@@ -1,2 +1,17 @@
 # makefun-gta6-palmera-heat
-Palmera Heat — an original open-world crime game built for the make.fun GTA 6 bounty. makefun
+
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Nasan-Duodushu/makefun-gta6-palmera-heat/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Nasan-Duodushu/makefun-gta6-palmera-heat/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
+Palmera Heat — an original 2D top-down open-world crime game set in the neon-coast city of Palmera: steal cars, outrun the police, and work a five-mission story for Marisol Vega.
+
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=93j9ghwz&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
