@@ -6,6 +6,10 @@
 
 Palmera Heat — an original 2D top-down open-world crime game set in the neon-coast city of Palmera: steal cars, outrun the police, and work a five-mission story for Marisol Vega.
 
+## How to play
+
+Work Marisol Vega's five missions, steal cars, and lose the police. **WASD / arrows** move and drive, **Shift** runs, **Space** handbrakes. **E** interacts — enter or exit a car, start missions. **Click** shoots, **F** throws fists, **R** reloads, **Q** switches weapon, **H** honks, **M** mutes, **P** / **Esc** pauses.
+
 ## Run it
 
 ```sh
